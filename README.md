@@ -1,4 +1,4 @@
-# Game-Jam
+# Tiger Survival
 
 #Requirements
 1. pygame-(pip install pygame,python -m pip install pygame)

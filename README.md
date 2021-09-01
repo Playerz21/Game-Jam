@@ -1,8 +1,8 @@
 # Game-Jam
 
 #Requirements
-{pygame-(pip install pygame,python -m pip install pygame)}
-python
+1. pygame-(pip install pygame,python -m pip install pygame)
+2. python
 
 #Setup
 1. Run the main.py file
@@ -10,6 +10,6 @@ python
 3. Go to the about section to learn more
 
 #Public Modules Used
-(pygame)
-(Math)
-(random)
+1.pygame
+2.Math
+3.random

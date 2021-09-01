@@ -10,6 +10,6 @@
 3. Go to the about section to learn more
 
 #Public Modules Used
-1.pygame
-2.Math
-3.random
+1. pygame
+2. Math
+3. random

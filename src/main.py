@@ -64,7 +64,7 @@ def main1():
             bullets.append(Laser(enemy.x+20, enemy.y+enemy.img.get_height()/2, missile,1))
             cooldown+=1
         if player.score>20:
-            interval("What! they retreated", bg,(WIDTH-270, 250))
+            interval("What! they retreated", bg,(WIDTH-370, 250))
             main3()
 def draw_menu():
     text2 = calibri2.render("Tiger Surivival", True, (255, 0, 255))

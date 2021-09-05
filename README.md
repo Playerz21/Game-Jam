@@ -22,3 +22,6 @@
 You are the only tiger left in the entire world.
 Hunters and other obstacles are coming your way.
 Can you overcome these obstacles and reach safety?
+
+#Note:
+You can also run the game using the main.exe file in the src folder
